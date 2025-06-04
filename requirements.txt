@@ -1,0 +1,6 @@
+tensorflow
+tqdm
+scikit-learn
+opencv-python
+streamlit
+faiss-cpu
