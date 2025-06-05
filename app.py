@@ -61,7 +61,7 @@ def extract_feature(img_path,model):
     
     ##convert the image into proper formate
     '''
-    Since ResNet is trained on imagenet dataset
+    Since EfficientNet is trained on imagenet dataset
     so we have to preprocess the image in same way as it is preprocessed in imagenet
     
     here image are converted from RGB to BGR,then zero-centered with respect to the ImageNet dataset
